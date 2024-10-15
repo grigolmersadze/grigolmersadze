@@ -1,6 +1,3 @@
-<div>
-  <img src="https://i.redd.it/58xc5bic96y61.png" id="img"/>
-</div>
 
 
 <!---
