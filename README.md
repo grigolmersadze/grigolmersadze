@@ -2,6 +2,6 @@
 ![Node JS](https://img.shields.io/badge/Node-JS-green)
 ![Python 3](https://img.shields.io/badge/Python-3-blue)
 
-### Professional Translator (Games, Web Apps, Etc.)
+### Web Developer (& Game Dev)
 - Reverse Engineering Video Games
-- Modding & Web Development
+- Modding & Professional Translator (Games, Web Apps, Etc.)
