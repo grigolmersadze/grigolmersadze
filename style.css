@@ -1,0 +1,8 @@
+@font-face {
+  src: url('Agdasima-Regular.ttf');
+  font-family: 'Agdasima-Regular';
+}
+
+* {
+  font-family: 'Agdasima-Regular';
+}
