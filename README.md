@@ -4,6 +4,17 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-3-blue">
 </div>
 
+<style>
+  @font-face {
+    src: url('Agdasima-Regular.ttf');
+    font-family: 'Agdasima-Regular';
+  }
+
+  * {
+    font-family: 'Agdasima-Regular';
+  }
+</style>
+
 Professional Trasnlator (Games, Web Apps, Etc.) <br>
 Reverse Engineering Video Games <br>
 Modding & Web Development <br>
